@@ -1,0 +1,7 @@
+# 忽略环境变量文件
+.env
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+# 忽略本地配置
+.vscode/
